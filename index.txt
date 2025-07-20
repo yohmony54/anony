@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <!-- إعادة التوجيه بعد 0 ثانية -->
+  <meta http-equiv="refresh" content="0; URL='https://yohmony53.github.io/yohmony53/'">
+  <title>Redirecting…</title>
+  <script>
+    // فallback حال عدم دعم الميتا ريفريش
+    window.location.replace("https://yohmony53.github.io/yohmony53/");
+  </script>
+</head>
+<body>
+  <!-- في حالة تعطّل جافاسكربت أو الميتا: -->
+  إذا لم يتم تحويلك تلقائيّاً، <a href="https://yohmony53.github.io/yohmony53/">اضغط هنا</a>.
+</body>
+</html>
